@@ -4,6 +4,10 @@ This version has been adapted to work perfectly for any game. Just a pattern and
 
 Detour has been replaced by MinHook.
 
+Twitter: [@Niemand_sec](https://twitter.com/niemand_sec)
+
+More info: [Personal Blog](https://niemand.com.ar/)
+
 # Pattern and Mask Example
 
 strcpy(test, "\x48\x8B\x41\x18\x48\x2B\x41\x10\x48\xc1\xf8\x03\xc3");
